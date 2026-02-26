@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Janhvi Srivastava</h1>
 <h3 align="center">BTech IT Student | AI & Data Enthusiast 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=janhvi200412&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</p>
-
 ---
 
 ### 🌟 About Me
-- 🎓 BTech (IT) at NIET, Greater Noida (CGPA: 8.23)
+- 🎓 BTech (IT) at NIET, Greater Noida 
 - 🏆 Winner – Hacknovate 6.0 (2025)
 - 🥈 2nd Place – Smart India Hackathon 2024
 - 💡 Interested in AI, Data Analytics & Emerging Tech
