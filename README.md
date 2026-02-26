@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Janhvi Srivastava</h1>
 <h3 align="center">BTech IT Student | AI & Data Enthusiast 🚀</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=janhvi200412&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
+
 ---
 
 ### 🌟 About Me
@@ -21,8 +25,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=janhvi200412&show_icons=true&theme=radical" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhvi200412&layout=compact&theme=radical" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=janhvi200412&show_icons=true&theme=radical" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhvi200412&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
@@ -41,14 +45,22 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/janhvi200412/">
-    <img src="https://leetcard.jacoblin.cool/janhvi200412?theme=dark&font=Karma&ext=heatmap&border=2&radius=16" alt="LeetCode Stats" width="600"/>
+  <a href="https://leetcode.com/u/janhvisrivastava_04/">
+    <img src="https://leetcard.jacoblin.cool/janhvisrivastava_04?theme=dark&font=Karma&ext=heatmap&border=2&radius=16" alt="LeetCode Stats" width="600"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=janhvi200412&theme=dark&border=border&animated=true" alt="LeetCode Badge Showcase" width="550"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=janhvisrivastava_04&theme=dark&border=border&animated=true" alt="LeetCode Badge Showcase" width="550"/>
 </p>
+
+---
+
+### 🏆 Achievements
+- 🥇 Winner – Hacknovate 6.0 (2025)
+- 🥈 2nd Place – Smart India Hackathon (2024)
+- 📜 Deloitte Australia Technology & Data Analytics Program (Forage)
+- 💻 Solved multiple LeetCode problems
 
 ---
 
@@ -64,4 +76,6 @@
 
 ---
 
-✨ “Building intelligent solutions for tomorrow.”
+<p align="center">
+✨ <b>Building intelligent solutions for tomorrow.</b> ✨
+</p>
